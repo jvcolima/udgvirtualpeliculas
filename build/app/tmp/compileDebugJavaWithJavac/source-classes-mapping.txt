@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+id/codingyourlife/carrental/BuildConfig.java
+ id.codingyourlife.carrental.BuildConfig

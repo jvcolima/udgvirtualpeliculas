@@ -1,0 +1,7 @@
+#Tue Mar 14 00:44:18 CST 2023
+base.1=C\:\\flutter\\examples\\UdG_Virtual_App_Peliculas_git\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\flutter\\examples\\UdG_Virtual_App_Peliculas_git\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
